@@ -4,7 +4,7 @@ A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Sk
 
 
 # What it does:
-This mod adds High-Value Dupe checker into your skyblock experience. image
+This mod adds High-Value Dupe checker into your skyblock experience. 
 
 ![image](https://user-images.githubusercontent.com/105786022/169017001-df070673-0468-4735-b03c-d1b30ecb07e8.png)
 ![image](https://user-images.githubusercontent.com/105786022/169017032-57b20b6b-88ba-40cf-b71f-1e5391ae4c1f.png)
